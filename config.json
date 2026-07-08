@@ -1,5 +1,5 @@
 {
-    "rss_urls": "https://sports.yahoo.com/mma/rss.xml",
+    "rss_urls": "http://feeds.bbci.co.uk/sport/formula1/rss.xml",
     "exclude_title_keywords": "odds, betting, bet, trade, trading, Links, link",
     "exclude_body_keywords": "",
     "min_word_count": 125,
@@ -13,5 +13,5 @@
     "font_size": 21,
     "margin_v": 20,
     "append_keyword_feature": true,
-    "append_word_suffix": "MMA"
+    "append_word_suffix": "formula1"
 }
